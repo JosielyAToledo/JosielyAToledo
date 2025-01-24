@@ -20,8 +20,9 @@
 </div>
 
 
-  
-</div>
+  [![Currículo Lattes](https://img.shields.io/badge/Meu%20Curr%C3%ADculo%20Lattes-0070B8?style=flat&logo=github)](https://lattes.cnpq.br/seu-curriculo-id)
+
+
 
 ## Contatos
 
@@ -31,6 +32,8 @@
  
  <a href = "mailto:josielytoledo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 
+  [![Currículo Lattes](https://img.shields.io/badge/Meu%20Curr%C3%ADculo%20Lattes-0070B8?style=flat&logo=github)](https://lattes.cnpq.br/seu-curriculo-id)
+  
 <div align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4dDF1OGp3bHZ6NDdwY2JpaTVvanIxcjF2M3cxMTQ3Mmk5MGVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" width="300" />
 </div>
