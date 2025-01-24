@@ -1,4 +1,4 @@
-## Olá, eu sou Josiely Toledo
+## Olá, Eu sou Josiely Toledo
 
 ## Languages
   
