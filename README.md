@@ -23,7 +23,6 @@
 
 <a href="http://lattes.cnpq.br/4113600200745629" target="_blank">
   <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-0057A0?style=for-the-badge" />
-</a>
  <a href="https://www.linkedin.com/in/josiely-toledo-73b4541b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.com/channels/950369646421348402/1225637304131915796)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
  <a href = "mailto:josielytoledo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
