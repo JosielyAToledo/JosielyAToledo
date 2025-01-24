@@ -1,4 +1,4 @@
-#Olá! Este é o meu espaço para aprender, criar e evoluir.
+## Olá! Este é o meu espaço para aprender, criar e evoluir.
 ## Languages
   
 <div 
@@ -13,10 +13,11 @@
 ⌨️
 <div>
     <a href="https://github.com/JosielyAToledo">       
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosielyAToledo&show_icons=true&theme=radical">            
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosielyAToledo&show_icons=true&theme=tokyonight">       
+        <br>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosielyAToledo&hide_progress=true">
+    </a>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosielyAToledo&hide_progress=true)
 
 
   
