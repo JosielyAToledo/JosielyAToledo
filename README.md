@@ -13,11 +13,16 @@
 ⌨️
 <div> 
     <a href="https://github.com/JosielyAToledo">       
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosielyAToledo&show_icons=true&theme=tokyonight">       
+        <img height="140px" src="https://github-readme-stats.vercel.app/api?username=JosielyAToledo&show_icons=true&theme=tokyonight" alt="GitHub Stats">       
         <br>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosielyAToledo&hide_progress=true">
+      <!-- Gráfico de linguagens com tema roxinho -->
+        <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosielyAToledo&hide_progress=true&langs_count=10&theme=tokyonight" alt="Top Languages">
     </a>
 </div>
+
+
+
+
 
 ## Contatos
 
