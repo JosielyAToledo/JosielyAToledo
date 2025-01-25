@@ -11,7 +11,7 @@
  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 ⌨️
-<div>
+<div> 
     <a href="https://github.com/JosielyAToledo">       
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosielyAToledo&show_icons=true&theme=tokyonight">       
         <br>
