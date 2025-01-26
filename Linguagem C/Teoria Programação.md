@@ -124,7 +124,35 @@ Exemplos incluem Visual Studio, Eclipse e IntelliJ IDEA.
     
     **Linguagem case sensitive** diferencia maiúsculas de minúsculas, tratando caracteres como `variavel` e `Variavel` como diferentes.
 
+20. O que são erros de sintaxe?
     
+    **Erros de sintaxe** são falhas no código que ocorrem quando as regras da linguagem não são seguidas,
+    como pontuação incorreta ou estrutura inválida de comandos.
+    Eles são detectados durante a compilação.
+21. O que são erros de lógica?
+    
+    **Erros de lógica** são falhas no código em que a sintaxe está correta, mas a lógica implementada não gera
+     o comportamento esperado. Esses erros não impedem a execução do programa,
+     mas fazem com que ele produza resultados incorretos ou não atenda ao objetivo desejado.
+      ```c
+      int soma(int a, int b) {
+       return a - b; // Erro lógico: deveria ser a + b
+      }
+      ```
+      
+     Os erros de lógica são difíceis de identificar automaticamente, pois o programa é executado sem parar, mas gera resultados incorretos.
+
+22. O que é um tipo de variável?
+    
+    Um **tipo de variável** define o tipo de dado que uma variável pode armazenar, determinando o formato e
+    a quantidade de memória necessária para armazenar o valor. 
+    - **int:** para números inteiros.
+    - **float:** para números decimais.
+    - **char:** para caracteres individuais.
+    - **bool:** para valores booleanos (verdadeiro ou falso).
+
+
+  
 
 
 
