@@ -1,6 +1,6 @@
 # ⏰ Projeto de Relógio Digital
 
-Este projeto consiste em um relógio digital simples, que exibe a hora atual em formato de 24 horas e se atualiza automaticamente a cada segundo, sem necessidade de recarregar a página.
+Este projeto é um relógio digital simples, que exibe a hora atual em formato de 24 horas e se atualiza automaticamente, sem necessidade de recarregar a página.
 
 ## Estrutura do Projeto
 
@@ -12,7 +12,7 @@ Este projeto consiste em um relógio digital simples, que exibe a hora atual em 
 
 - **Exibe a hora atual**: Mostra a hora, minutos e segundos em tempo real.
 - **Atualização automática**: O relógio se atualiza a cada segundo, sem necessidade de recarregar a página.
-- **Design simples e funcional**: Com fundo e texto centralizados.
+- **Design simples**: Com fundo e texto centralizados.
 
 ## 📌 Créditos
 
