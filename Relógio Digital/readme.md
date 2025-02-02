@@ -1,10 +1,10 @@
-# Projeto de Relógio Digital
+# ⏰ Projeto de Relógio Digital
 
 
 ### Este projeto consiste em um relógio digital simples, que exibe a hora atual em formato de 24 horas.
 
 
-## Créditos
+##  📌 Créditos
 
 O código deste projeto foi inspirado no tutorial do canal da Larissa Kich, disponível em:  
 [https://youtu.be/GK0ok3ZCXwM?si=i1kRoZAjvMVBT3bg](https://youtu.be/GK0ok3ZCXwM?si=i1kRoZAjvMVBT3bg).  
@@ -17,7 +17,7 @@ O código deste projeto foi inspirado no tutorial do canal da Larissa Kich, disp
 - `js/`: Arquivo JavaScript responsável pela funcionalidade e lógica do relógio.
 
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
 - Exibe a hora atual, minutos e segundos em tempo real.
 - O relógio é atualizado automaticamente a cada segundo, sem necessidade de recarregar a página.
