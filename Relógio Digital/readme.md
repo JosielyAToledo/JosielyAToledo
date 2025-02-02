@@ -2,7 +2,7 @@
 
 Este projeto é um relógio digital simples, que exibe a hora atual em formato de 24 horas e se atualiza automaticamente, sem necessidade de recarregar a página.
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 - **`html/`**: Contém o arquivo HTML que estrutura o relógio.
 - **`css/`**: Arquivo CSS que define o estilo visual do relógio.
