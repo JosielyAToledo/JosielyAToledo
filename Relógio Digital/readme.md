@@ -4,10 +4,8 @@
 ### Este projeto consiste em um relógio digital simples, que exibe a hora atual em formato de 24 horas.
 
 
-
 ## Créditos
 
-Este projeto foi desenvolvido com base no tutorial de Larissa Kich.
 O código deste projeto foi inspirado no tutorial do canal da Larissa Kich, disponível em:  
 [https://youtu.be/GK0ok3ZCXwM?si=i1kRoZAjvMVBT3bg](https://youtu.be/GK0ok3ZCXwM?si=i1kRoZAjvMVBT3bg).  
 
