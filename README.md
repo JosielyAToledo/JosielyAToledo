@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=header"/>
 ## Olá! Este é o meu espaço para aprender, criar e evoluir.
 ## Languages
   
@@ -10,6 +11,7 @@
   <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
 ⌨️
 <div> 
     <a href="https://github.com/JosielyAToledo">       
