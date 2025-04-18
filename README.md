@@ -12,7 +12,7 @@
   <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
+
 ⌨️
 <div> 
     <a href="https://github.com/JosielyAToledo">       
@@ -36,6 +36,7 @@
  <a href = "mailto:josielytoledo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 
    ## 
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
 <div align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4dDF1OGp3bHZ6NDdwY2JpaTVvanIxcjF2M3cxMTQ3Mmk5MGVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" width="300" />
 </div>
