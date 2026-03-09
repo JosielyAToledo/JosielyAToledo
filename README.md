@@ -1,46 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e97fd&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e97fd&height=120&section=header"/>
 
 ## Olá! Este é o meu espaço para aprender, criar e evoluir.
+
 ## Languages
-  
-<div 
-  style="display: inline_block"><br>
-  <img align = "center" alt = "C" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align = "center" alt = "Java" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
- <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"/>
+  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 </div>
 
-⌨️
-<div> 
-    <a href="https://github.com/JosielyAToledo">       
-        <img height="140px" src="https://github-readme-stats.vercel.app/api?username=JosielyAToledo&show_icons=true&theme=tokyonight" alt="GitHub Stats">       
-        <br>
-      <!-- Gráfico de linguagens com tema roxinho -->
-        <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosielyAToledo&hide_progress=true&langs_count=10&theme=tokyonight" alt="Top Languages">
-    </a>
+<br>
+
+<div>
+  <a href="https://github.com/JosielyAToledo">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=JosielyAToledo&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    <br>
+    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosielyAToledo&hide_progress=true&langs_count=10&theme=tokyonight" alt="Top Languages"/>
+  </a>
 </div>
-
-
-
-
 
 ## Contatos
 
 <a href="http://lattes.cnpq.br/4113600200745629" target="_blank">
   <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-0057A0?style=for-the-badge" />
- <a href="https://www.linkedin.com/in/josiely-toledo-73b4541b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.com/channels/950369646421348402/1225637304131915796)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
- <a href = "mailto:josielytoledo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+</a>
 
-   ## 
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e97fd&height=120&section=footer"/>
+<a href="https://www.linkedin.com/in/josiely-toledo-73b4541b3/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://discord.com/channels/950369646421348402/1225637304131915796" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="mailto:josielytoledo@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e97fd&height=120&section=footer"/>
+
 <div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4dDF1OGp3bHZ6NDdwY2JpaTVvanIxcjF2M3cxMTQ3Mmk5MGVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4dDF1OGp3bHZ6NDdwY2JpaTVvanIxcjF2M3cxMTQ3Mmk5MGVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" width="300" />
 </div>
-
-
-
-
