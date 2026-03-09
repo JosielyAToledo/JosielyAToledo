@@ -1,48 +1,55 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e97fd&height=120&section=header"/>
 
-## Olá! Este é o meu espaço para aprender, criar e evoluir.
+## Olá! 👋
 
-## Languages
+Sou estudante de Computação apaixonada por aprender, criar e explorar novas tecnologias.  
+Gosto de transformar ideias em projetos, estudar programação, dados e ciência, e estou sempre em busca de novos desafios que ampliem meu conhecimento.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"/>
-  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-</div>
+Acredito que aprender é um processo contínuo. Por isso, estou constantemente estudando, experimentando e desenvolvendo projetos que unem tecnologia, pesquisa e inovação.
+
+Aqui você vai encontrar parte da minha jornada: códigos, experimentos, estudos e projetos que refletem minha evolução.
 
 <br>
 
-<div>
-  <a href="https://github.com/JosielyAToledo">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=JosielyAToledo&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-    <br>
-    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosielyAToledo&hide_progress=true&langs_count=10&theme=tokyonight" alt="Top Languages"/>
-  </a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4E97FD&center=true&vCenter=true&width=700&lines=Estudante+de+Computa%C3%A7%C3%A3o;Desafios+me+motivam+a+aprender+mais;Dedica%C3%A7%C3%A3o+e+evolu%C3%A7%C3%A3o+todos+os+dias" />
+
 </div>
+
+---
+
+## Languages
+
+<p align="left">
+<img alt="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img alt="Csharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img alt="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+<img alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+<img alt="Matlab" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"/>
+<img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+</p>
+
+---
 
 ## Contatos
 
 <a href="http://lattes.cnpq.br/4113600200745629" target="_blank">
-  <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-0057A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-0057A0?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/josiely-toledo-73b4541b3/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/channels/950369646421348402/1225637304131915796" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:josielytoledo@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4e97fd&height=120&section=footer"/>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4dDF1OGp3bHZ6NDdwY2JpaTVvanIxcjF2M3cxMTQ3Mmk5MGVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" width="300" />
-</div>
